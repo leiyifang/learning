@@ -1,2 +1,4 @@
 # learning
-test pycharm github
+##
+1. test pycharm github
+2. test pycharm github
